@@ -89,9 +89,9 @@ body {
 
 .menu > p {
   font-size: 1.5rem;
-  text-align: center;
   line-height: 1.6;
-  width: 80%;
+  width: 70%;
+  margin-bottom: 3.6rem;
 }
 
 .pizzas {
